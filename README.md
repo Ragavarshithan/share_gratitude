@@ -29,7 +29,7 @@ confirmation dialogs, and form validation, ensuring a smooth and modern user exp
 
 - Clone the repository
   git clone https://github.com/Ragavarshithan/share_gratitude
-  :   <pre> \cd share_gratitude\ </pre>
+  :   <pre> cd share_gratitude </pre>
 
 - Install dependencies
   flutter pub get <pre> \\ </pre>
