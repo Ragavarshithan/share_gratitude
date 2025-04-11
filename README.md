@@ -25,7 +25,7 @@ confirmation dialogs, and form validation, ensuring a smooth and modern user exp
 - HTTP – API communication
 - Material 3 – Clean UI components
 
-# Structure
+
 
 
 
