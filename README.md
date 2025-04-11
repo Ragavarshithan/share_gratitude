@@ -32,13 +32,13 @@ confirmation dialogs, and form validation, ensuring a smooth and modern user exp
   :   <pre> cd share_gratitude </pre>
 
 - Install dependencies
-  flutter pub get <pre> \\ </pre>
+   <pre> flutter pub get </pre>
 - Generate splash screen
-  dart run flutter_native_splash:create <pre> \\ </pre>
+   <pre>dart run flutter_native_splash:create  </pre>
 - Run the app
-  flutter run <pre> \\ </pre>
+   <pre>flutter run </pre>
 - Build release APK
-  flutter build apk --release <pre> \\ </pre>
+   <pre>flutter build apk --release </pre>
 
 # Api Handling
 
