@@ -27,26 +27,18 @@ confirmation dialogs, and form validation, ensuring a smooth and modern user exp
 
 # Structure
 
-lib/
-├── config/           # API base URL and config constants
-├── model/            # Data models 
-├── providers/        # Riverpod providers
-├── screens/          # UI Screens 
-├── services/         # API service class
-├── widgets/          # Reusable UI components
-└── main.dart         # App entry point
 
 
 # Api Handling
 
-All API operations are centralized in a dedicated ApiService class, ensuring a clean separation of concerns.
+- All API operations are centralized in a dedicated ApiService class, ensuring a clean separation of concerns.
 
-The API handles all four CRUD operations:
+- The API handles all four CRUD operations:
 
--GET to fetch posts
--POST to create a new post
--PUT to update existing posts
--DELETE to remove posts by ID
+- GET to fetch posts
+- POST to create a new post
+- PUT to update existing posts
+- DELETE to remove posts by ID
 
 JSON data is serialized and deserialized using manual
     -toJson() 
