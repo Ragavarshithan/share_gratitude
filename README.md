@@ -25,9 +25,20 @@ confirmation dialogs, and form validation, ensuring a smooth and modern user exp
 - HTTP – API communication
 - Material 3 – Clean UI components
 
+# Setup Instructions
 
+- Clone the repository
+  git clone https://github.com/Ragavarshithan/share_gratitude
+  cd share_gratitude
 
-
+- Install dependencies
+  flutter pub get
+- Generate splash screen
+  dart run flutter_native_splash:create
+- Run the app
+  flutter run
+- Build release APK
+  flutter build apk --release
 
 # Api Handling
 
