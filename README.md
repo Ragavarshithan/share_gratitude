@@ -29,16 +29,16 @@ confirmation dialogs, and form validation, ensuring a smooth and modern user exp
 
 - Clone the repository
   git clone https://github.com/Ragavarshithan/share_gratitude
-  : cd share_gratitude  <pre> \```bash flutter pub get flutter run \``` </pre>
+  :   <pre> \cd share_gratitude\ </pre>
 
 - Install dependencies
-  flutter pub get
+  flutter pub get <pre> \\ </pre>
 - Generate splash screen
-  dart run flutter_native_splash:create
+  dart run flutter_native_splash:create <pre> \\ </pre>
 - Run the app
-  flutter run
+  flutter run <pre> \\ </pre>
 - Build release APK
-  flutter build apk --release
+  flutter build apk --release <pre> \\ </pre>
 
 # Api Handling
 
