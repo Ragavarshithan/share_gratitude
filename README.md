@@ -35,10 +35,10 @@ confirmation dialogs, and form validation, ensuring a smooth and modern user exp
 
 - The API handles all four CRUD operations:
 
-- GET to fetch posts
-- POST to create a new post
-- PUT to update existing posts
-- DELETE to remove posts by ID
+ - GET to fetch posts
+ - POST to create a new post
+ - PUT to update existing posts
+ - DELETE to remove posts by ID
 
 JSON data is serialized and deserialized using manual
     -toJson() 
